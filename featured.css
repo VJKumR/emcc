@@ -1,5 +1,6 @@
 .container{
     padding:45px;
+    padding-top: 90px;
     font-size: medium;
 }
 li{
@@ -59,4 +60,9 @@ footer {
 .navbar-toggle .icon-bar{
   color: blue;
   border-color: transparent;
+}
+
+.music-article {
+  border: 1px solid black;
+  margin: 4px;
 }
